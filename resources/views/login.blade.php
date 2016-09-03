@@ -1,6 +1,7 @@
 @extends('layouts.app')
 @section('titulo','Ingreso')
 @section('contenido')
+@include('layouts.btnVolver')
 @include('common.errors')
 
 <div>
