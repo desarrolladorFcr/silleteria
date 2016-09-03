@@ -1,8 +1,8 @@
 <div class="alert-warning"> 
     <br>
     <br>
-    Para crear un usuario ingrese REGÍSTRESE
-    este usuario solo tendré privilegios para 
+    Para crear un usuario ingrese REGÍSTRESE,
+    este usuario solo tendrá privilegios para 
     reservar silla.
     <br>
     <br>
@@ -19,12 +19,6 @@
     <br>
     <h4>
     mocion.2040
-    </h4>
-    <br>
-    Para ver el código ingrese a:
-    <br>
-    <h4>
-    <a href="https://bitbucket.org/desarrolladorfcr/desarrollolaravel/src" target="_blank">ir a repositorio de bitbucket</a>
     </h4>
 </div>
 
